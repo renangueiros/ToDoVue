@@ -1,7 +1,5 @@
 ## TODOVUE
 
-<hr>
-
 Exemplo de aplicativo de Lista de Tarefas em Vue utilizando CDN e Bootstrap.
 
 > As bibliotecas foram baixadas para serem utilizadas localmente, mas podem ser utilizadas via CDN apenas mudando as linhas de importações das mesmas, sem perca nenhuma de funcionalidades ou necessidade de adaptação de código.
